@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @LNeptune
-- 👀 I’m interested in programming, languages, philosophy.
-- 🌱 I’m currently learning Python, Arabic, Spanish, Russian, Norwegian, and trying to teach my dog Gaelic.
-- 💞️ I’m looking to collaborate on learning how to use this gat dang computer do-hickey
-- 📫 How to reach me ... @LikeThePlanet on ?Twitter. LNeptune304@gmail.com (Maybe)
+
